@@ -228,7 +228,7 @@ Shape shapes[7] = {
     },
 };
 
-int main() //just for test
+int main() //test
 {
     Color cur;
     for (int i = 0; i < 7; i++)
