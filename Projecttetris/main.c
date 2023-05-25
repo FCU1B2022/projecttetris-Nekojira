@@ -458,7 +458,7 @@ int main()
         .score = 0,
         .rotate = 0,
         .fallTime = 0
-    };
+    }; //
 
     for (int i = 0; i < 4; i++)
     {
